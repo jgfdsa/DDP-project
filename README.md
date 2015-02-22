@@ -11,4 +11,7 @@ Assignment Submission Files
 The application is deployed on ShinyApps.io at https://jgfdsa.shinyapps.io/TimeCalculations/.
 
 
-        Project 2: 
+        Project 2: Presentation of the Time calculations APP
+        
+Assignment Submission Files
+-[Presentation.Rpres](http://rpubs.com/jgfdsa/TimeCalculations)
