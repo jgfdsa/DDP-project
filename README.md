@@ -14,6 +14,6 @@ The application is deployed on ShinyApps.io at https://jgfdsa.shinyapps.io/TimeC
         Project 2: Presentation of the Time calculations APP
         
 Assignment Submission Files
-- [Presentation.Rpres](http://rpubs.com/jgfdsa/TimeCalculations)
+- [Presentation.Rpres](https://github.com/jgfdsa/DDP-project/blob/master/Presentation.Rpres)
 
 The presentation is deployed on RPubs at: http://rpubs.com/jgfdsa/TimeCalculations
